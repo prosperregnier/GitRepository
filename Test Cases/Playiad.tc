@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Connexion à l'intranet</description>
+   <name>Playiad</name>
+   <tag>tag</tag>
+   <comment></comment>
+   <testCaseGuid>bfae4f63-c5c2-4469-bb66-cef2d0e9ec65</testCaseGuid>
+</TestCaseEntity>
